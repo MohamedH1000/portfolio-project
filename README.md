@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+<div style="text-align:center; display:block;">
   # Pharamcy Project
 </div>
 <center>a pharmacy website made by mohamed hesham</center>
