@@ -48,7 +48,7 @@ This project is done individually
 ## Story
 Once upon a time, in the realm of coding dreams and digital ambitions I am set out on an extraordinary journey to craft a pharmacy sales project using the magical powers of React.
 
-Our protagonist was fueled by a vision of making pharmacy sales not just a transaction but an experience. Armed with passion, a keyboard, and a cup of coffee, I am began to weave the intricate lines of code that would bring this vision to life.
+My protagonist was fueled by a vision of making pharmacy sales not just a transaction but an experience. Armed with passion, a keyboard, and a cup of coffee, I am began to weave the intricate lines of code that would bring this vision to life.
 
 The journey began with the creation of a virtual world, a React-powered kingdom where users could effortlessly navigate through the aisles of medications. React components acted as the architects, constructing a visually appealing and responsive landscape where every click and scroll felt like a step into a modern pharmacy of the future.
 
