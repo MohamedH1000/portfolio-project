@@ -1,6 +1,6 @@
   # Pharamcy-Project
 a pharmacy website made by mohamed hesham
-![skin care category image]([url_to_your_image](https://github.com/MohamedH1000/portfolio-project/blob/main/Screenshot%202023-11-01%20195629.png?raw=true))
+![skin care category image](https://github.com/MohamedH1000/portfolio-project/blob/main/Screenshot%202023-11-01%20195629.png?raw=true)
   ## Introduction
 An e-commerce pharmacy website is an online platform that facilitates the purchase and sale of pharmaceutical products and medications over the internet. These websites bring the traditional pharmacy experience into the digital age, providing a convenient and accessible way for customers to order prescription and over-the-counter medications, health and wellness products, and related items.
 
