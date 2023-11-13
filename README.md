@@ -41,3 +41,5 @@ Before you begin, make sure you have the following installed on your machine:
 To build the project for production:<br>
 `npm run build`<br>
 This command will create a build folder with optimized and minified files ready for deployment.
+**Contributing**
+This project is done individually
