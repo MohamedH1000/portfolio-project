@@ -30,14 +30,14 @@ To run this pharmacy sales project locally, follow the steps below:
 Before you begin, make sure you have the following installed on your machine:
 - Node.js (including npm, the Node Package Manager)
 ## Clone the Repository
-`https://github.com/MohamedH1000/portfolio-project`
+`https://github.com/MohamedH1000/portfolio-project`  
 **Navigate to the Project Directory**
-`cd portfolio-project`
+`cd portfolio-project`  
 **Install Dependencies**
-`npm install`
+`npm install`  
 **Start the Development Server**
-`npm start`
+`npm start`  
 **Build for Production**
 To build the project for production:
-`npm run build`
+`npm run build`  
 This command will create a build folder with optimized and minified files ready for deployment.
