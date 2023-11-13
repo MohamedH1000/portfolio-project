@@ -22,3 +22,22 @@ Here's an introduction to key aspects of an e-commerce pharmacy website:
 
   - The deployed site link: https://www.softwaremech.tech/
   - My linkedin: https://www.linkedin.com/in/mohamed-hesham-726903209/
+
+## Installation
+To run this pharmacy sales project locally, follow the steps below:
+
+## Prerequisites
+Before you begin, make sure you have the following installed on your machine:
+- Node.js (including npm, the Node Package Manager)
+## Clone the Repository
+`https://github.com/MohamedH1000/portfolio-project`
+**Navigate to the Project Directory**
+`cd portfolio-project`
+**Install Dependencies**
+`npm install`
+**Start the Development Server**
+`npm start`
+**Build for Production**
+To build the project for production:
+`npm run build`
+This command will create a build folder with optimized and minified files ready for deployment.
