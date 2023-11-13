@@ -1,5 +1,5 @@
 <div style="text-align:center; display:block; font-size:24px">
-  # Pharamcy Project
+  # Pharamcy-Project
 </div>
 <center>a pharmacy website made by mohamed hesham</center>
 ## Introduction
