@@ -19,5 +19,6 @@ Here's an introduction to key aspects of an e-commerce pharmacy website:
 - Clear navigation and categorization help users locate products efficiently.
 5. **Secure Transactions**:
 - E-commerce pharmacies prioritize the security of financial transactions and personal information. Secure payment gateways and data encryption are commonly implemented.
-The deployed site link: https://www.softwaremech.tech/
-My linkedin: https://www.linkedin.com/in/mohamed-hesham-726903209/
+
+  The deployed site link: https://www.softwaremech.tech/
+  My linkedin: https://www.linkedin.com/in/mohamed-hesham-726903209/
