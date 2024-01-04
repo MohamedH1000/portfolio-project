@@ -1,0 +1,27 @@
+.popular-haircare {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.popular-haircare h1 {
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 30px;
+}
+.haircare-items {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-bottom: 40px;
+}
+ .horizoontal_haircare {
+    width: 200px;
+    height: 6px;
+    background-color: var(--text-color);
+    border-radius: 1px;
+    margin-bottom: 20px;
+ }

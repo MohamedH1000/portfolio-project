@@ -1,0 +1,10 @@
+.icons {
+    font-size: 30px;
+    color: white;
+}
+
+@media (max-width : 866px) {
+    .icons {    
+    font-size: 17px;
+    }
+}

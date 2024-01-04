@@ -1,0 +1,35 @@
+.scroll-button {
+    position: fixed;
+    bottom: 230px;
+    left: 2%;
+    z-index: 1;
+    cursor: pointer;
+    color: var(--bg-color);
+    background-color: white;
+    border: 1px solid var(--bg-color);
+    border-radius: 5px;
+    height: 40px;
+    width: 40px;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 10px;
+    overflow: hidden;
+}
+.scroll-button:hover {
+    color: white;
+}
+.scroll-button::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--bg-color);
+    width: 0%;
+    height: 100%;
+    z-index: -1;
+    transition: 0.5s;
+}
+
+.scroll-button:hover::before {
+    width: 100%;
+}

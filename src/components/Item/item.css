@@ -1,0 +1,107 @@
+.item {
+    height: 337px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 8px;
+    position: relative;
+    border: 1px solid var(--text-color);
+    border-radius: 10px;
+    transition: 0.5s;
+    position: relative;
+    background-color: white;
+    overflow: hidden;
+}
+.item:hover {
+    box-shadow: 1.5px 1.5px 5px white;
+    transform: scale(1.05);
+}
+
+.save {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 61px;
+    height: 30px;
+    background-color: var(--save-icon);
+    color: white;
+    border-radius: 8px;
+    font-size: 12.5px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+}
+
+.name-prices {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    line-height: 1.86;
+    font-size: 12px;
+    font-weight: 700;
+    position: absolute;
+    bottom: 20px;
+    padding: 0 10px;
+}
+.name {
+    height: 42px;
+    margin-bottom: 10px;
+    overflow: hidden;
+    color: var(--text-color);
+}
+.prices {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 15px;
+    margin-left: 5px;
+    font-weight: 700;
+    color: var(--text-color);
+}
+
+.old_price {
+    text-decoration: line-through;
+}
+
+.add-to-cart {
+    width: 170px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    height: 34px;
+    background-color: var(--text-color);
+    color: white;
+    font-size: 13px;
+    font-weight: 700;
+    cursor: pointer;
+    outline: none;
+    border-radius: 8px;
+    transition: 0.5s;
+    border: 1px solid white;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+}
+
+.add-to-cart::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: white;
+    width: 0%;
+    height: 100%;
+    z-index: -1;
+    transition: 0.5s;
+}
+.add-to-cart:hover {
+    box-shadow: 1px 1px 5px white;
+    color: var(--text-color);
+    border: 1px solid var(--text-color);
+}
+
+.add-to-cart:hover::before {
+    width: 100%;
+}
